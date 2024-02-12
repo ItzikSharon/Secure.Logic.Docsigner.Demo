@@ -5,9 +5,9 @@ using com.slg.docsigner.demo;
 
 Console.WriteLine("DocSigner API Demo");
 
-DocSignerAPIConnector.Settings.BaseURL = "https://docsigner.co.il:6444/api/ext/v1";
-DocSignerAPIConnector.Settings.APIID = "65a005199d6a8fd4ad963ef7";
-DocSignerAPIConnector.Settings.APIKey = "eyJDbGFpbXMiOlt7IktleSI6ImFwaV9jb25uZWN0b3JfaWQiLCJWYWx1ZSI6IjY1YTAwNTE5OWQ2YThmZDRhZDk2M2VmNyJ9LHsiS2V5IjoidGVuYW50X2lkIiwiVmFsdWUiOiJpdHppa19zZWN1cmVsb2dpY19jb19pbCJ9XSwiQ3JlYXRpb25EYXRlIjoiMjAyNC0wMS0xMVQxNzoxMToyMS4wNTY5NDYrMDI6MDAiLCJMaWZlVGltZVNlY29uZHMiOjB9";
+DocSignerAPIConnector.Settings.BaseURL = "Add here the server base URL";
+DocSignerAPIConnector.Settings.APIID = "Add here the API ID";
+DocSignerAPIConnector.Settings.APIKey = "Add here the API Key";
 
 
 //  ----------------------- Call status ---------------
